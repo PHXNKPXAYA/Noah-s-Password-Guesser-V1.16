@@ -1,2 +1,6 @@
-*IN ORDER FOR THIS TO WORK YOU MUST FIRST INSTALL COLORAMA* you can install colorama by running this command in your terminal
+# Noah's Password Guesser
+
+In order for this to work, you must first install **Colorama**. You can install it by running the following command in your terminal:
+
+```bash
 pip install colorama
