@@ -49,5 +49,3 @@ Thank you for your support! 💙
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/PHXNKPXAYA/Noah-s-Password-Guesser-V1.16/blob/main/LICENSE) file for details.
-```
-
